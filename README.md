@@ -1,2 +1,2 @@
-# ml_classifier
-General ML classifier using catboost model
+# Machine Learning classifier
+General Machine Learning classifier using catboost model
