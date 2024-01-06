@@ -1,4 +1,6 @@
 # Machine Learning classifier using catboost
-This is a sample Machine Learning classifier using catboost model: <br>
-https://catboost.ai/
+This is a sample Machine Learning classifier using catboost model, a high-performance open source library for gradient boosting on decision trees: <br>
+https://catboost.ai/ <br>
+This model can be applied to any problem or challenge that involves estimating the probability of a sample in a dataset belonging to a particular class. It also identifies the most important features using SHAP scores.
+
 
